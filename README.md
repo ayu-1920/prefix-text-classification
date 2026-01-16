@@ -100,6 +100,14 @@ chmod +x setup.sh
 6. **Run Experiment**: Click the button to train both models and compare results
 7. **Review Results**: Examine metrics, visualizations, and key findings
 
+## Project's Images
+<img width="1343" height="647" alt="1" src="https://github.com/user-attachments/assets/0e9de532-1e8a-4842-9bfe-ef767a963018" />
+<img width="1366" height="728" alt="2" src="https://github.com/user-attachments/assets/2daade01-1808-4a52-9fc2-43505d99093a" />
+<img width="1366" height="728" alt="3" src="https://github.com/user-attachments/assets/370fd4c3-88fc-481d-a020-ecee4f6e7ffa" />
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/adeffc04-0541-4e45-8ca5-37890b84e2e0" />
+<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/16d3afa8-7bb9-4d9a-baa3-81cbcb4bfcc4" />
+
+
 ## 📊 Results Example
 
 ### IMDb Sentiment Analysis (50 tokens)
